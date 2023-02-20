@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/inseq-team/inseq,104,44
+/inseq-team/inseq/issues,22,6
+/inseq-team/inseq/releases/tag/v0.3.3,14,12
+/inseq-team/inseq/tree/main/inseq,14,5
+/inseq-team/inseq/pulls,8,4
+/inseq-team/inseq/issues/110,7,5
+/inseq-team/inseq/tree/main/inseq/attr,7,1
+/inseq-team/inseq/tree/main/inseq/attr/feat,6,1
+/inseq-team/inseq/stargazers,5,3
+/inseq-team/inseq/blob/ec3c747e9f897dfc5a1993c2925f876aa98b2ad1/tests/attr/feat/test_feature_attribution.py,5,2

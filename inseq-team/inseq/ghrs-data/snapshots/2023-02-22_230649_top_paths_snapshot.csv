@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/inseq-team/inseq,96,41
+/inseq-team/inseq/issues,20,8
+/inseq-team/inseq/tree/main/inseq,18,4
+/inseq-team/inseq/releases/tag/v0.3.3,15,13
+/inseq-team/inseq/tree/main/inseq/attr,9,1
+/inseq-team/inseq/issues/110,8,7
+/inseq-team/inseq/pulls,8,6
+/inseq-team/inseq/blame/main/inseq/utils/torch_utils.py,8,1
+/inseq-team/inseq/blob/7ed9d7996dd54aa9a4d3eb0a262e270a0bf5c017/inseq/models/attribution_model.py,7,1
+/inseq-team/inseq/blame/7ed9d7996dd54aa9a4d3eb0a262e270a0bf5c017/inseq/utils/torch_utils.py,6,1

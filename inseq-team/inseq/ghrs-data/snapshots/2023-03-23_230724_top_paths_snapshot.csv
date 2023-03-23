@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/inseq-team/inseq,166,85
+/inseq-team/inseq/tree/main/inseq,18,7
+/inseq-team/inseq/issues,11,8
+/inseq-team/inseq/tree/main/inseq/attr,11,4
+/inseq-team/inseq/tree/main/inseq/models,11,4
+/inseq-team/inseq/tree/main/inseq/attr/feat,11,3
+/inseq-team/inseq/blob/main/inseq/attr/feat/ops/basic_attention.py,8,2
+/inseq-team/inseq/tree/main/inseq/attr/feat/ops,8,2
+/inseq-team/inseq/blob/main/inseq/models/huggingface_model.py,7,2
+/inseq-team/inseq/blob/main/inseq/attr/feat/gradient_attribution.py,6,3

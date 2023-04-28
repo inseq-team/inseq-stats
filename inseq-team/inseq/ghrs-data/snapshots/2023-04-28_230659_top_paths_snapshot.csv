@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/inseq-team/inseq,122,53
+/inseq-team/inseq/pulls,12,2
+/inseq-team/inseq/pull/173,11,2
+/inseq-team/inseq/tree/main/inseq,10,4
+/inseq-team/inseq/blob/5cafba80f8f83b321ed9f317c79c5ee81c996f78/inseq/attr/feat/ops/value_zeroing.py,8,1
+/inseq-team/inseq/blob/main/.pre-commit-config.yaml,7,2
+/inseq-team/inseq/tree/main/inseq/models,6,2
+/inseq-team/inseq/blob/main/requirements.txt,5,4
+/inseq-team/inseq/blob/main/setup.cfg,5,2
+/inseq-team/inseq/tree/main/docker,5,2

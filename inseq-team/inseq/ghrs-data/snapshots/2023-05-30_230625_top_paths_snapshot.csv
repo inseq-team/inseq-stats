@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/inseq-team/inseq,161,82
+/inseq-team/inseq/tree/main/inseq,34,6
+/inseq-team/inseq/tree/main/inseq/models,27,4
+/inseq-team/inseq/blob/main/inseq/models/attribution_model.py,21,4
+/inseq-team/inseq/issues,18,8
+/inseq-team/inseq/blob/main/inseq/models/huggingface_model.py,16,1
+/inseq-team/inseq/blob/1789acf8768fc83028a57bb9c1d72b7c18ae14dd/inseq/data/viz.py,14,1
+/inseq-team/inseq/blob/1789acf8768fc83028a57bb9c1d72b7c18ae14dd/inseq/data/attribution.py,12,1
+/inseq-team/inseq/blob/10462300732c0e2c60f13849a9e525674831e255/docs/source/examples/locate_gpt2_knowledge.rst,11,1
+/inseq-team/inseq/tree/main/inseq/attr,10,3

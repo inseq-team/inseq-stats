@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/inseq-team/inseq,104,63
+/inseq-team/inseq/blob/8520469301911e3598b51287d0d3cb85db1ebe4c/inseq/data/aggregator.py,64,1
+/inseq-team/inseq/blob/8520469301911e3598b51287d0d3cb85db1ebe4c/inseq/attr/step_functions.py,59,1
+/inseq-team/inseq/tree/main/inseq,56,8
+/inseq-team/inseq/blob/main/examples/inseq_tutorial.ipynb,50,10
+/inseq-team/inseq/blob/8520469301911e3598b51287d0d3cb85db1ebe4c/inseq/models/attribution_model.py,41,1
+/inseq-team/inseq/tree/8520469301911e3598b51287d0d3cb85db1ebe4c/inseq/models,37,1
+/inseq-team/inseq/tree/8520469301911e3598b51287d0d3cb85db1ebe4c/inseq,34,1
+/inseq-team/inseq/blob/8520469301911e3598b51287d0d3cb85db1ebe4c/inseq/models/encoder_decoder.py,30,1
+/inseq-team/inseq/tree/main/inseq/models,29,4

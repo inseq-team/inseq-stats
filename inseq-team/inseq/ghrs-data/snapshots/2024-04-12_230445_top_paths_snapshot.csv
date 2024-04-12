@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/inseq-team/inseq,212,100
+/inseq-team/inseq/blob/main/examples/inseq_tutorial.ipynb,140,25
+/inseq-team/inseq/tree/main/inseq,79,17
+/inseq-team/inseq/issues,61,12
+/inseq-team/inseq/tree/main/inseq/models,58,9
+/inseq-team/inseq/tree/main/examples,42,14
+/inseq-team/inseq/tree/main,24,12
+/inseq-team/inseq/blob/main/inseq/models/attribution_model.py,23,4
+/inseq-team/inseq/blob/main/inseq/models/huggingface_model.py,23,3
+/inseq-team/inseq/tree/main/inseq/commands,22,7
